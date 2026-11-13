@@ -2,6 +2,9 @@
 
 This repository contains my personal ACE script collection for Pokémon Generation 1 games, designed to either run temporarilly using TimoVM’s 4F Nickname Writer, or to be permanently installed with it inside TimOS script selector.
 
+## Disclaimer
+This repository is intended for educational and experimental purposes only, focusing on the exploration of Pokémon Generation I game mechanics, glitches, and code customization techniques derived from the [Pret disassembly projects](https://github.com/pret). All content is provided for learning and research purposes, with no intention of facilitating malicious or unauthorized activities.
+
 ----
 ### Categories
 
