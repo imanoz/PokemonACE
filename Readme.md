@@ -8,11 +8,11 @@ This repository is intended for educational and experimental purposes only, focu
 ----
 ### Categories
 
-- **Effects:** Scripts that perform a specific action in the game.
-- **Events:** Custom events that occur in specific map areas.
-- **Mechanics:** Scripts that run continuously in the backround and add a new game behavior.
-- **Minigames:** No explanation needed here. Show me your highscores! :)
-- **Tools:** Scripts and utilities that help developers build, test or debug custom scripts and game features!
+- [**Effects:**](https://github.com/imanoz/PokemonACE/tree/main/Effects) Scripts that perform a specific action in the game.
+- [**Events:**](https://github.com/imanoz/PokemonACE/tree/main/Events) Custom events that occur in specific map areas.
+- [**Mechanics:**](https://github.com/imanoz/PokemonACE/tree/main/Mechanics) Scripts that run continuously in the backround and add a new game behavior.
+- [**Minigames:**](https://github.com/imanoz/PokemonACE/tree/main/Minigames) No explanation needed here. Show me your highscores! :)
+- [**Tools:**](https://github.com/imanoz/PokemonACE/tree/main/Tools) Scripts and utilities that help developers build, test or debug custom scripts and game features!
 
 ### Prefixes
 - **[P] Premium:** High-quality scripts designed to simplify the game and make it more consistent — a must-have!
